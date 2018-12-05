@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544029379908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8AD0EA25",
+    "lastKnownWriteTime" : 1544029388,
+    "last_content_update" : 1544029388113,
+    "path" : "~/Desktop/PSYC394U/NoCheck/R/file3.R",
+    "project_path" : "R/file3.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
